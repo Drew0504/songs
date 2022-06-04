@@ -11,13 +11,13 @@
  
 ## 更新记录
 
-- 2019-02-02 创建项目
-- 2019-05-18 增加了下载功能
+- 2022-06-04 创建项目
+
 
 ## 致谢
 
 本项目歌曲搜索功能通过以下项目修改而来, 在此致谢
-- <https://github.com/0xHJK/music-dl>
+- <https://github.com/ermaozi/django_songs.git>
 
 ## 免责声明
 
